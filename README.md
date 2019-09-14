@@ -131,6 +131,6 @@ function accelerate(n) {
 }
 </script>
 <br>
-<button onmousedown="accelerate(-0.2)" onmouseup="accelerate(0.05)">ACCELERATE</button>
+<button onmousedown="accelerate(-0.2)" onmouseup="accelerate(0.005)">ACCELERATE</button>
 <p>Use the ACCELERATE button to stay in the air</p>
 </html>
